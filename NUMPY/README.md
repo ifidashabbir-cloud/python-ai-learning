@@ -1,22 +1,26 @@
-# NumPy Learning - Day 8 & Day 9
+# NumPy Fundamentals and Advanced Operations
 
-This notebook contains my NumPy learning exercises
-and practical tasks from Day 8 and Day 9.
+This folder contains my hands-on NumPy practice as part of my AI Engineering learning journey.
 
 ## Topics Covered
-
-- NumPy Arrays
-- Array Dimensions
-- Array Properties
-- Indexing and Slicing
-- Mathematical Operations
+- NumPy array creation and properties
+- Array indexing and slicing
+- Mathematical and statistical operations
 - Broadcasting
-- Reshaping and Flattening
-- Axis Operations
-- Student Marks Analysis
+- Reshaping and flattening
+- Boolean indexing and array filtering
+- Conditional operations using `np.where()`
+- Random number generation
 
-## Technologies Used
+## Practical Exercise
+**Student Marks Analysis**
 
+Built a NumPy-based exercise to generate student marks, classify pass/fail results, count passing and failing students, and calculate average, highest, and lowest marks.
+
+## Notebook
+- `numpy_practice.ipynb`
+
+## Technologies
 - Python
 - NumPy
 - Jupyter Notebook
