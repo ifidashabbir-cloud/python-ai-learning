@@ -9,7 +9,7 @@ This folder contains my hands-on NumPy practice as part of my AI Engineering lea
 - Broadcasting
 - Reshaping and flattening
 - Boolean indexing and array filtering
-- Conditional operations using `np.where()`
+- Conditional operations using `np.where()'
 - Random number generation
 
 ## Practical Exercise
