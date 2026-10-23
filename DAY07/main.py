@@ -171,22 +171,22 @@ while True:
     if choice == "1":
         add_student()
 
-    elif choice == "2":
+    elif choice == "4":
         view_students()
 
-    elif choice == "3":
+    elif choice == "2":
         search_student()
 
-    elif choice == "4":
+    elif choice == "3":
         update_student()
 
-    elif choice == "5":
+    elif choice == "7":
         delete_student()
 
-    elif choice == "6":
+    elif choice == "5":
         save_students()
 
-    elif choice == "7":
+    elif choice == "6":
         print("Thank you! Program Closed.")
         break
 
