@@ -186,9 +186,9 @@ while True:
     elif choice == "5":
         save_students()
 
-    elif choice == "6":
+    #elif choice == "6":
         print("Thank you! Program Closed.")
         break
 
-    else:
+    #else:
         print("Invalid Choice! Please select 1 to 7.")
