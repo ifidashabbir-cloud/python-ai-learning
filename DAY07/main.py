@@ -171,24 +171,24 @@ while True:
     if choice == "1":
         add_student()
 
-    elif choice == "4":
+    elif choice == "2":
         view_students()
 
-    elif choice == "2":
+    elif choice == "3":
         search_student()
 
-    elif choice == "3":
+    elif choice == "4":
         update_student()
 
-    elif choice == "7":
+    elif choice == "5":
         delete_student()
 
-    elif choice == "5":
+    elif choice == "6":
         save_students()
 
-    #elif choice == "6":
+    elif choice == "7":
         print("Thank you! Program Closed.")
         break
 
-    #else:
+    else:
         print("Invalid Choice! Please select 1 to 7.")
